@@ -19,3 +19,4 @@ username = neo4j_user_name
 password = neo4j_passsord
 
 
+![schema](./schema.jpeg)
