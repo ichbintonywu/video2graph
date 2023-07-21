@@ -14,9 +14,9 @@ source my_env/bin/activate
 openai.api_key = OPENAI_API_KEY
 
 # prepare your Neo4j desktop environment
-uri = neo4j_URL
-username = neo4j_user_name
-password = neo4j_passsord
+uri = neo4j_URL \n
+username = neo4j_user_name \n
+password = neo4j_passsord 
 
 
 ![schema](./schema.jpeg)
