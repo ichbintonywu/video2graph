@@ -17,3 +17,5 @@ openai.api_key = OPENAI_API_KEY
 uri = neo4j_URL
 username = neo4j_user_name
 password = neo4j_passsord
+
+
